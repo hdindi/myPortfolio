@@ -23,7 +23,7 @@
 
 
 ## link to live site on GitHub Pages
-[title](https://www.github.io/hsdindi)
+[title](https://hdindi.github.io/myPortfolio/)
 
 ## copyright and license information**
 
